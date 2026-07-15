@@ -1,6 +1,6 @@
-# Smart Memos v1.1
+# Voice Notes Transcriber
 
-![SmartMemos](assets/SmartMemo2.gif) 
+![Voice Notes Transcriber](assets/SmartMemo2.gif) 
 
 Welcome to the Smart Memos! This plugin integrates seamlessly with your Obsidian, offering an advanced, interactive way to transcribe and generate notes from your audio files. My goal is to enhance your ability to capture and understand information from audio sources, transforming the way you interact with and understand your information.
 
