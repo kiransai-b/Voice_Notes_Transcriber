@@ -36,31 +36,6 @@ Once installed, the Smart Memos Plugin provides an intuitive interface to transc
 - **Include Raw Transcript**: If you just want clean notes returned, you can remove the addition of the raw transcript at the end by toggling it off in the settings
 - **Specify where audio files are recorded in your vault**: By default, audio recordings will be saved to your root vault folder.  If you want to store audio recordings in a specific folder, you can change it in the settings of this plugin. I.e if you want them to be saved in a 'Recordings' folder within your 'Resources' folder, you can set the settings value to Resources/Recordings.
 
-## Coming Soon(ish)!
-- **Smart Templates**: Given the seemingly infinite use cases, I'm working with Brian (creator of smart connections) to integrate "Smart Templates", a templating feature that will be available in Obsidian within the coming weeks.
-- **Local Model Transcription**:  This is a high priority since it's understandable not as many are as comfortable having their voice audio sent out online to be transcribed. 
-
-## Vision
-The Smart Memos plugin aims to revolutionize the way we capture and understand information from audio sources. By leveraging advanced AI models, the plugin can transcribe audio files and generate fully customizable notes, in-depth analysis, and idea expansion, freeing you from the tedious task of manual transcription and note-taking, while simultaneously expanding upon them to allow your two "brains" to work harmoneously.
-
-The ultimate mission is to enhance productivity, ideas, and efficiency in note-taking, especially for users who frequently deal with audio sources of information or find it much easier to simply speak whatever is on their mind than write it all down. With this plugin, I envision a future where valuable information from audio sources doesn't get lost and is automatically integrated into your own, personalized way of note-taking.
-
-## About Me
-Hello there! Name's Evan 😁
-
-I'm a senior software developer/architect consultant, currently managing and developing data visualization tools for the CDC. I've been obsessed about what's transpiring with AI for the last 12-ish years, fully aware that it would soon completely change the world.
-
-Inspired by Brian, the creator of Smart Connections, I started an AI consulting company called "Evan's Oasis." At Evan's Oasis, I audit business workflows for clients and recommend AI tools and practices that significantly enhance decision-making, productivity, and quality—while reducing the time and money needed to run a business.
-
-## Community and Support
-Your involvement is crucial to the evolution of Smart Memos. From troubleshooting issues to suggesting new features, every contribution enriches our community and drives the project forward!
-
-- **Join The Community**
-  - GitHub Discussions: Participate in discussions on GitHub to share your experiences and ask questions.
-  - Contribute: Help develop the plugin, report issues, or suggest new features.
-  - User Testimonials: Share how the plugin has impacted your workflow and creativity.
-
-
 ## License
 The Smart Memos Plugin is open-source and available under the MIT License. Contributions are welcome!
 
